@@ -24,7 +24,6 @@ void *aloca(size_t size);
 void libera(void *ptr);
 
 int main() {
-  
     
   //Exemplo de uso
   Lista lista;
